@@ -1,0 +1,292 @@
+body {
+		margin: 0;
+		padding: 0;
+	}
+	:root {
+		--web-view-ids: landing;
+	}
+	#landing * {
+		margin: 0;
+		padding: 0;
+	}
+	#landing {
+		position: absolute;
+		box-sizing: border-box;
+		background: #E5E5E5;
+		width: 1366;
+		height: 768;
+		font-family: arial, sans-serif;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		margin: 0;
+		padding: 0;
+		opacity: 1;
+		--web-view-name: landing;
+		--web-view-id: landing;
+		--web-enable-deep-linking: true;
+	}
+	#home_container {
+		opacity: 1;
+		fill: transparent;
+	}
+	.home_container {
+		position: absolute;
+		overflow: visible;
+		width: 1366px;
+		height: 768px;
+		left: 0px;
+		top: 0px;
+	}
+	#big_ol_container {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.big_ol_container {
+		position: absolute;
+		overflow: visible;
+		width: 1319px;
+		height: 720px;
+		left: 24px;
+		top: 24px;
+	}
+	#menu {
+		opacity: 1;
+		position: absolute;
+		width: 1277px;
+		height: 98px;
+		left: 44px;
+		top: 46px;
+		overflow: visible;
+	}
+	#menu_containter {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.menu_containter {
+		position: absolute;
+		overflow: visible;
+		width: 1277px;
+		height: 98px;
+		left: 0px;
+		top: 0px;
+	}
+	#ah_wordmark_dots {
+		opacity: 1;
+		fill: url(#ah_wordmark_dots_A2_Rectangle_5_pattern);
+	}
+	.ah_wordmark_dots {
+		position: absolute;
+		overflow: visible;
+		width: 307px;
+		height: 57.641px;
+		left: 29px;
+		top: 17px;
+	}
+	#projects {
+		opacity: 1;
+		position: absolute;
+		left: 589px;
+		top: 43px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 110px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Verlag, arial, sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(255,0,0,1);
+	}
+	#about {
+		opacity: 1;
+		position: absolute;
+		left: 832px;
+		top: 43px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 81px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Verlag, arial, sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(255,0,0,1);
+	}
+	#contact {
+		opacity: 1;
+		position: absolute;
+		left: 1046px;
+		top: 43px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 104px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Verlag, arial, sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(255,0,0,1);
+	}
+	#Ellipse_1 {
+		opacity: 1;
+		fill: rgba(255,0,0,1);
+	}
+	.Ellipse_1 {
+		position: absolute;
+		overflow: visible;
+		width: 8px;
+		height: 8px;
+		left: 351px;
+		top: 66px;
+	}
+	#Ellipse_2 {
+		opacity: 1;
+		fill: rgba(255,0,0,1);
+	}
+	.Ellipse_2 {
+		position: absolute;
+		overflow: visible;
+		width: 8px;
+		height: 8px;
+		left: 375px;
+		top: 66px;
+	}
+	#Ellipse_3 {
+		opacity: 1;
+		fill: rgba(255,0,0,1);
+	}
+	.Ellipse_3 {
+		position: absolute;
+		overflow: visible;
+		width: 8px;
+		height: 8px;
+		left: 1201px;
+		top: 70px;
+	}
+	#Rectangle_3 {
+		opacity: 1;
+		filter: blur(11.22px);
+		fill: rgba(255,95,95,0.451);
+	}
+	.Rectangle_3 {
+		position: absolute;
+		overflow: visible;
+		width: 354px;
+		height: 637px;
+		left: 970px;
+		top: 69px;
+	}
+	#florahVI {
+		opacity: 1;
+		fill: url(#florahVI_A2_Rectangle_8_pattern);
+	}
+	.florahVI {
+		position: absolute;
+		overflow: visible;
+		width: 563.5px;
+		height: 480px;
+		left: 584px;
+		top: 144px;
+	}
+	#ah_element_blob_red_9 {
+		opacity: 0.898;
+		fill: url(#ah_element_blob_red_9_A2_Rectangle_10_pattern);
+	}
+	.ah_element_blob_red_9 {
+		position: absolute;
+		overflow: visible;
+		width: 150px;
+		height: 150px;
+		left: 1159px;
+		top: 160px;
+	}
+	#Asset_7_9 {
+		opacity: 0.598;
+		fill: url(#Asset_7_9_A2_Rectangle_12_pattern);
+	}
+	.Asset_7_9 {
+		position: absolute;
+		overflow: visible;
+		width: 279.38px;
+		height: 251.751px;
+		left: 1007.527px;
+		top: 24.294px;
+		transform: rotate(22deg);
+		transform-origin: left;
+	}
+	#Rectangle_2 {
+		opacity: 1;
+		filter: blur(10.371px);
+		fill: rgba(247,236,223,0.502);
+	}
+	.Rectangle_2 {
+		position: absolute;
+		overflow: visible;
+		width: 738px;
+		height: 537px;
+		left: 48px;
+		top: 116px;
+	}
+	#Asset_21_9 {
+		opacity: 1;
+		fill: url(#Asset_21_9_A2_Rectangle_15_pattern);
+	}
+	.Asset_21_9 {
+		position: absolute;
+		overflow: visible;
+		width: 496px;
+		height: 92px;
+		left: 204px;
+		top: 320px;
+	}
+	#Line_1 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 95, 95);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1 {
+		overflow: visible;
+		position: absolute;
+		top: 499.5px;
+		left: 459.5px;
+		width: 2px;
+		height: 207.005px;
+	}
+	#ah_element_blob_ballet_9 {
+		opacity: 1;
+		fill: url(#ah_element_blob_ballet_9_A2_Rectangle_17_pattern);
+	}
+	.ah_element_blob_ballet_9 {
+		position: absolute;
+		overflow: visible;
+		width: 800px;
+		height: 708px;
+		left: 66px;
+		top: 547px;
+	}
